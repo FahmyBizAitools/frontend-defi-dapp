@@ -1,3 +1,10 @@
+<img width="1330" height="600" alt="image" src="https://github.com/user-attachments/assets/7722d2b0-807a-45f1-b745-08b9e35a96f1" />
+
+
+
+
+
+
 🚀 Frontend DeFi DApp
 Frontend DeFi DApp is a decentralized application (DApp) frontend built with React + Vite.
 This project is designed to provide a modern, responsive, and secure interface for users to interact with Decentralized Finance (DeFi) services.
