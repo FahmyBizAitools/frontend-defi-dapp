@@ -7,12 +7,14 @@ import Dashboard from "@/pages/dashboard";
 import Analytics from "@/pages/analytics";
 import History from "@/pages/history";
 import Settings from "@/pages/settings";
+import PinterestDashboard from "@/pages/PinterestDashboard";
 import NotFound from "@/pages/not-found";
 
 function Router() {
   return (
     <Switch>
-      <Route path="/" component={Dashboard} />
+      <Route path="/" component={PinterestDashboard} />
+      <Route path="/dashboard" component={Dashboard} />
       <Route path="/analytics" component={Analytics} />
       <Route path="/history" component={History} />
       <Route path="/settings" component={Settings} />
