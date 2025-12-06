@@ -1,0 +1,46 @@
+How to Use the 30-Day Pinterest Content Package
+
+1. **Preparation:**
+   - Download all files from the package
+   - Set up your Pinterest business account if you haven't already
+   - Install any scheduling tools you plan to use (optional)
+
+2. **Daily Posting:**
+   - Follow the 30-day calendar for optimal timing
+   - Copy the title, description, and hashtags for each day
+   - Add your affiliate links to the description or use the provided CTA format
+
+3. **Manual Upload:**
+   - Go to Pinterest and click "Create Pin"
+   - Upload your image or use Canva to create one with the provided text overlay
+   - Paste the title and description
+   - Add hashtags in the description or comments
+   - Select appropriate boards and publish
+
+4. **Auto-Scheduling (Optional):**
+   - Use tools like Tailwind, Later, or Buffer
+   - Import the CSV file for bulk scheduling
+   - Set up your affiliate links in the tool's link shortening feature
+
+5. **Customization:**
+   - Edit captions to match your brand voice
+   - Replace generic CTAs with your specific affiliate links
+   - Adjust hashtags based on current trends
+
+6. **Affiliate Integration:**
+   - Replace "link in bio" with your actual affiliate links
+   - Use URL shorteners to track clicks
+   - Ensure compliance with affiliate program terms
+
+7. **Canva Usage:**
+   - Open Canva and select a Pinterest pin template
+   - Add the provided Canva Text as overlay
+   - Customize colors and fonts to match your brand
+   - Download and upload to Pinterest
+
+8. **Tracking Success:**
+   - Monitor engagement metrics on Pinterest
+   - Track affiliate conversions
+   - Adjust future content based on what performs best
+
+Remember: Consistency is key! Post daily for 30 days to build momentum and establish your authority in the niche.
